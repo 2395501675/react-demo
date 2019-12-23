@@ -1,0 +1,6 @@
+.little-menu {
+    border-bottom:0;
+    >.ant-menu-item-selected> a{
+        color:red;
+    }
+}
